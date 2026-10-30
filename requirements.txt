@@ -1,0 +1,8 @@
+streamlit
+langgraph
+langchain-groq
+langchain-mcp-adapters
+python-dotenv
+psycopg
+psycopg-binary
+mcp
